@@ -1,5 +1,5 @@
 # LeafDoctor
-LeafDoctor is a deep learning application for detecting plant disease based on leaf images. 
+LeafDoctor is a deep learning application for detecting plant disease based on leaf images (see [this video](https://www.youtube.com/watch?v=3aspxSRQjEI)). 
 
 This repository contains:
   1. SVM baseline model: [Baseline](SVM_BaseModel.ipynb)
